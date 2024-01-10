@@ -673,7 +673,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd?rrsip=center
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 Unifi TV3
-https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=T4RlryPFrESwNR4DwJNmBHen2IdTOs0i18NW6XKEqvG6mRtXFkv11IhIQEVy%2ByAZcc2bpr929bwFp9dNr%2BE163oPeLtvYOStEaOBCi4MVU3IeN9rafv15KK8Mx2%2BcxQDQ8hLGYcrK28KN05xe9jDnA%3D%3D%3A20231004023624%3AUTC%2C1004320541%2C115.164.207.27%2C20231004023624%2Curn:Huawei:liveTV:iptv182%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&hms_devid=1798&mount=1000002&targetdev=1798&it=H4sIAAAAAAAAA0XMsQrCMBCA4bfpGHpJPdIhkyK4BKHqKpfkEgqxwbQWfHupCO7_9y-VPJ8ORjFg0C3uQHNHqHrXY88haukQIGIz89MWoxpPOY9TsiVs7Dbs79CKVkgJArrmsu2OmZKR39K-Ho7rnw1c19GzCXMUK82CUqqcaBnLJM6Z3teaf8kH4ovTopkAAAA HTTP/1.1
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15 (Android 13; 335cec8e-5c83-4c93-8f95-2d351ec96ec8; V2246) 
 #EXTVLCOPT:http-best-effort=true
@@ -1053,21 +1053,13 @@ https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 SERVER A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 SERVER B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 SERVER C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
-
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
   
 #EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png", 105 Drama Sangat 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
