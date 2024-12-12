@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="SILA BELI ID DI wasap 0183975974 - shopee off sementara"
+#EXTM3U billed-msg="SILA BELI ID DI SHOPEE ZAYANDIGITAL "
 
 Isi url dalam ott ikut step. bukan tekan link
 
@@ -43,11 +43,10 @@ Isi url dalam ott ikut step. bukan tekan link
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440"
 
 
-#EXTINF:-1 group-title="BELI ORIGINAL DI wasap  0183975974 " group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="ZAYANZACK" ch-number="100" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI wasap 0183975974 / web bit.ly/zayanzacktv
+#EXTINF:-1 group-title="BELI ORIGINAL DI SHOPEE ZAYAN DIGITAL " group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="ZAYANZACK" ch-number="100" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI SHOPEE ZAYAN DIGITAL
 https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
 
-#EXTINF:-1 group-title="ID BANNED JIKA TAK BELI DI WEB bit.ly/zayanzacktv " group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI wasap 0183975974 / web bit.ly/zayanzacktv
-https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
+#EXTINF:-1 group-title="ID BANNED JIKA TAK BELI DI SHOPEE ZAYAN DIGITAL " group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI shopee ZAYAN DIGITAL https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
 
 
 
