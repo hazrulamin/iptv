@@ -4485,28 +4485,31 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
 {"name": "Final Destination 5", "category": "HBOGO Asia", "info": {"poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/014113X0-portrait.jpg", "bg": "https://dai3fd1oh325y.cloudfront.net/images/originald/014113X0-landscape.jpg", "plot": "Death returns for another wild ride in this episode of Final Destination. This latest lethal thrill ride is the Grim Reaper's field day with life-threatening 3D sequences including a suspension bridge collapse, laser eye surgery gone wrong and other fiendishly clever ways to perish!", "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/014113X0-landscape.jpg", "director": ["Steven Quale"], "cast": ["Nicolas D'agosto", "Emma Bell", "Miles Fisher", "Ellen Wroe", "Arlen Escarpeta", "Jacqueline Macinnes Wood", "Courtney B. Vance", "David Koechner", "Tony Todd"], "year": "2011"}, "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb10bce6d048943f751a3af_hbovodhd/dash0/MYS_index.mpd", "drm": "clearkey", "drmkey": "b3f8c42d2b05574e91ad8840754077c5:417fd651906d6bbf87033f95efc1f7bc"},
 {"name": "There\u2019S Something Wrong About Aunt Diane", "category": "HBOGO Asia", "info": {"poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/016573X0-portrait.jpg", "bg": "https://dai3fd1oh325y.cloudfront.net/images/originald/016573X0-landscape.jpg", "plot": "The accident made national headlines: a suburban mother drove the wrong way on the Taconic Parkway in upstate New York and crashed head-on into an SUV, killing herself and seven others. In the aftermath, Diane Schuler was portrayed as a reckless drunk and a mother who cracked. But was she the monster the public made her out to be...or the perfect wife and mother that many say she was? Investigating the case six months after the accident, this documentary searches for answers to a mysterious and senseless tragedy.", "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/016573X0-landscape.jpg", "director": ["Liz Garbus"], "cast": [], "year": "2011"}, "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7688a8be7189575a8c5ca0_hbovodhd/dash0/MYS_index.mpd", "drm": "clearkey", "drmkey": "7df3839bdf845cbaa3e5cf78d411371f:53a13135b6aac8e0748f0ea733bc2ca8"},
 {"name": "Harry Potter And The Deathly Hallows - Part 2", "category": "HBOGO Asia", "info": {"poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/014122X0-portrait.jpg", "bg": "https://dai3fd1oh325y.cloudfront.net/images/originald/014122X0-landscape.jpg", "plot": "Following 2010's first installment, the boy wizard's final adventure concludes with the climactic final battle between The Boy Who Lived and the Dark Lord Voldemort. Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter and his friends Ron and Hermione face their greatest foe and make the ultimate sacrifice on the landmark journey that bestselling author J.K. Rowling first undertook more than a decade ago.", "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/014122X0-landscape.jpg", "director": ["David Yates"], "cast": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Helena Bonham Carter", "Robbie Coltrane", "Ralph Fiennes", "Michael Gambon", "John Hurt", "Jason Isaacs", "Kelly Macdonald", "Gary Oldman", "Alan Rickman", "Maggie Smith", "David Thewlis", "David Bradley", "Warwick Davis", "Tom Felton", "Ciar\u00e1n Hinds", "Gemma Jones", "Dave Legeno",
-#EXTINF:-1 tvg-id="AstroRia" group-title="test not 24H" ch-number="104" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg"" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",Astro Ria (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/4Tj83Hr/Menu5-R2.png" 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroRia" group-title="TEST NOT 24JAM" ch-number="104" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",Astro Ria (A)
 https://tinyurl.com/playria0
 
-https://linears-playback.astro.com.my/vsg/4189pQ-OMUZXe6covQNA01lux5o3VPtmP83VhPKk1l6pc=GMAg/dash-wv/jitp-dashisowm/2105/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroPrima" group-title="test not 24H" ch-number="105" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg"" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",Astro Prima (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroPrima" group-title="TEST NOT 24JAM" ch-number="105" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",Astro Prima (A)
 https://tinyurl.com/playprim0
 
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="test not 24H" ch-number="108" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg"" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Astro Citra (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroCitra" group-title="TEST NOT 24JAM" ch-number="108" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Astro Citra (A)
 https://tinyurl.com/playcit0
-
 
 
 
