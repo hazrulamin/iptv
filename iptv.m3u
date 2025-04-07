@@ -11693,9 +11693,6 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_720.m3u8?bpkio_s
 #EXTINF:-1 tvg-id="AstroRia" group-title="NOT 24 JAM - TEST ONLY" ch-number="104" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",Astro RiYA (A)
 https://l16.dp.sooka.my/1004/linear/ria.mpd
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="NOT 24 JAM - TEST ONLY" ch-number="104" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",Astro RiYA (B)
-#EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
-https://tinyurl.com/riats0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -11706,9 +11703,6 @@ https://tinyurl.com/riats0
 #EXTINF:-1 tvg-id="AstroPrima" group-title="NOT 24 JAM - TEST ONLY" ch-number="105" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",Astro PrYMA (A)
 https://l18.dp.sooka.my/1000/linear/index.mpd
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="NOT 24 JAM - TEST ONLY" ch-number="105" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",Astro PrYMA (B)
-#EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
-https://tinyurl.com/primts0
 
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="SPORT BACKUP",
