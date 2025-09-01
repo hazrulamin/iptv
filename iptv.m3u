@@ -1442,23 +1442,6 @@ https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMl6MBhGRg8wUXfFq
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
 #https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="Sports"  tvg-logo="https://get.perfecttv.net/logo/premierleague.png",805 EPL HD
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
-https://get.perfecttv.net/jwt.mpd?username=vip_eccx7p4l&password=Udt3EeeV&channel=epl1hd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="Sports"  tvg-logo="https://get.perfecttv.net/logo/premierleague2.png",806 EPL2 HD
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
-https://get.perfecttv.net/jwt.mpd?username=vip_eccx7p4l&password=Udt3EeeV&channel=epl2hd
-
 
 
 
