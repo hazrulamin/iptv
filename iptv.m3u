@@ -1316,14 +1316,19 @@ https://zayanzack.short.gy/ria
 #EXTINF:-1 ch-number="105" tvg-id="AstroPrima" tvg-name="Astro Prima" group-title="LIVE EVENT" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg",Sooka 3
 https://zayanzack.short.gy/pryma
 
-#EXTINF:-1 tvg-id="104.astro" group-title="LIVE EVENT" ch-number="104" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg"
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="LIVE EVENT" tvg-id="104.astro" tvg-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" ,SOOKA A
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-#https://get.perfecttv.net/1080.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riafhd|authorization=Bearer 
-https://get.perfecttv.net/jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-id="104.astro" tvg-name="RIA HD" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" ch-number="104",Sooka B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+#https://linears2-playback.astro.com.my/vsg/41t-TXSnexA-mG4G3cEivBPnX9gj4K1IV_vpFoMNGYOYA=gq6A/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
 ####################################################################################################
@@ -1568,12 +1573,13 @@ https://zayanzack.short.gy/epl2
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
 #https://stream-mts.cdnmts.org/mtsstream/ArenaBola.mpd
+#https://linears2-playback.astro.com.my/vsg/41TtbJTK7pSeH5y-R1ssdp2Zsw0OEHDnCIYgO4gbASHv4=_bEq/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
-https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41TtbJTK7pSeH5y-R1ssdp2Zsw0OEHDnCIYgO4gbASHv4=_bEq/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=f47b48ea-c52a-489d-97f6-a0ae0a0933d8
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41TtbJTK7pSeH5y-R1ssdp2b3Ghr8zvpwOKvcdPIZd1p8=4T5K/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=e97614bf-4176-469b-90f5-581e5f77a20b
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)
@@ -1591,13 +1597,14 @@ https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 FHD
-https://stream-mts.cdnmts.org/mtsstream/ArenaBola2.mpd
+#https://stream-mts.cdnmts.org/mtsstream/ArenaBola2.mpd
+#https://linears2-playback.astro.com.my/vsg/413_09og43CpJ2RY9wQl3nnj5o9Q0VDhwRw-JrwvzsZd8=87SV/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD
-https://linears2-playback.astro.com.my/vsg/413_09og43CpJ2RY9wQl3nnj5o9Q0VDhwRw-JrwvzsZd8=87SV/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/413_09og43CpJ2RY9wQl3nnl0H4IRTrEqdrIBUjm9vTFI=7oTh/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)
@@ -1617,12 +1624,13 @@ https://linears2-playback.astro.com.my/vsg/413_09og43CpJ2RY9wQl3nnj5o9Q0VDhwRw-J
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD
 #https://stream-mts.cdnmts.org/mtsstream/AstroxPrimearLeague.mpd
+#https://linears2-playback.astro.com.my/vsg/41RwBmsdy78gfz9dbMbcjuik_oG-NXpv7_GSCnCAIzb5Q=PaV_/dash-wv/jitp-dashisowm/601/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD
-https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41RwBmsdy78gfz9dbMbcjuik_oG-NXpv7_GSCnCAIzb5Q=PaV_/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=ee974034-7ac0-489d-80fe-8e3ef7003596
+https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41RwBmsdy78gfz9dbMbcjuim6mLmlFwGW1p7pr37ymf-w=Zft8/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=7b793d73-2f5d-41e8-b01d-558cd2a9a09b
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)
@@ -1641,13 +1649,14 @@ https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.co
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD
 #https://stream-mts.cdnmts.org/mtsstream/AstroxPrimearLeague2.mpd
+#https://linears2-playback.astro.com.my/vsg/415RQvZPSBiVv6ELMVnuKRZw1W2q0AHiWEAzrwqQEDy68=ZdoG/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg"
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
-https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/415RQvZPSBiVv6ELMVnuKRZw1W2q0AHiWEAzrwqQEDy68=ZdoG/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=90c64cfc-be07-4044-8e1e-9ae4d6d96426
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/415RQvZPSBiVv6ELMVnuKRZ50FFdrvs5xDsl7ukWS73EQ=gEKK/dash-wv/jitp-dashisowm/2104/default_ott.mpd?ads.hhid=5d20d45fe47f8f7ca901516255ddae3c
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)
@@ -1668,14 +1677,14 @@ https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://stream-mts.cdnmts.org/mtsstream/AstroxBadminton.mpd
-#https://linears2-playback.astro.com.my/vsg/41d0uGyqVSJy6tPMWHnK1B-Qp00GY5wqiaGdLYrCjXkWg=p7eP/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+#https://linears2-playback.astro.com.my/vsg/41d0uGyqVSJy6tPMWHnK1B-YQqWCZ6w4K28_iB0c-ub00=UOoF/dash-wv/jitp-dashisowm/5170/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg"
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41d0uGyqVSJy6tPMWHnK1B-YQqWCZ6w4K28_iB0c-ub00=UOoF/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=c6c34363-282f-4787-9e7f-991f8b14ce03
+https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41d0uGyqVSJy6tPMWHnK1B-aNPDaV_Qsmcrtbh7OAO3jQ=V-vt/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=710418a7-edee-499b-9196-35ae32774cc3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)
@@ -3283,7 +3292,7 @@ VOD
    
 
 
-#EXTM3U billed-msg=" Zv SILA BELI ID DI SHOPEE zayanzacktv"
+#EXTM3U billed-msg=" Zv-SILA BELI ID DI SHOPEE zayanzacktv"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/new/,https://mokm32.github.io/vod-top-20/,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
 
 
