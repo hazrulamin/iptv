@@ -50,13 +50,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 ######################BODOH KE NK CURI TOKEN ORANG ######################## 
 
 
-#EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD
+#EXTINF:-1 group-logo="" tvg-id="AstroRia" tvg-name="RIA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://radio.noice.id/proxy?url=http://217.216.110.49:8000/riaJ1
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="Astro Ria Prima Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="RIA HD" group-title="Astro Ria Prima Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -64,39 +64,39 @@ https://radio.noice.id/proxy?url=http://217.216.110.49:8000/riaJ1
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="104.astro" group-title="Astro Ria Prima Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria?b)
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="RIA HD" group-title="Astro Ria Prima Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria?b)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #https://linears2-playback.astro.com.my/vsg/41GhCG_cXZSEFqsQJM6LtwUp9NBR-TI0-nsYfmLHeIYa8=WQWy/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
-#EXTINF:-1 group-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-title="Astro Ria Prima Citra" tvg-id="AstroRia.my" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,104 Ria HD
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="RIA HD" group-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-title="Astro Ria Prima Citra" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,104 Ria HD
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ch-number="105",105 Prima HD
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="PRIMA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ch-number="105",105 Prima HD
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://radio.noice.id/proxy?url=http://217.216.110.49:8000/primaJ1
 
 
-##EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ch-number="105",105 Prima HD
+##EXTINF:-1 tvg-id="AstroPrima" tvg-name="PRIMA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ch-number="105",105 Prima HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 FbbRys Build/RTM5.220609.199FbbRys; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41DPQCEKYk_f0aX1ZW_kzpK6NZ-SNtu2XyBLsqTIYnfZE=Qg83/dash-wv/jitp-linearwm/1000/default_ott.mpd
 
-##EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ch-number="105",105 Prima HD
+##EXTINF:-1 tvg-id="AstroPrima" tvg-name="PRIMA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" ch-number="105",105 Prima HD
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://radio.noice.id/proxy?url=http://ktpremium.site:2095/itv263/9189/1058819
 
 
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Astro Ria Prima Citra" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" ch-number="108",108 Citra HD
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="CITRA HD" group-title="Astro Ria Prima Citra" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" ch-number="108",108 Citra HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 v3 (Linux; Android 7.1.2)
@@ -110,7 +110,7 @@ https://radio.noice.id/proxy?url=http://ktpremium.site:2095/itv263/9189/25852
 
 
 
-#EXTINF:-1 tvg-id="106.astro" tvg-id="OASIS HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="Astro Ria Prima Citra" ch-number="106",106 Oasis HD
+#EXTINF:-1 tvg-id="AstroOasis" tvg-id="OASIS HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="Astro Ria Prima Citra" ch-number="106",106 Oasis HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -119,31 +119,31 @@ https://radio.noice.id/proxy?url=http://ktpremium.site:2095/itv263/9189/25852
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
-#EXTINF:-1 group-logo="" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="RANIA HD" tvg-name="ASTRO RANIA HD" group-title="Astro Ria Prima Citra" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://ktpremium.site:2095/itv263/9189/908356
 
-#EXTINF:-1 group-logo="" tvg-id="113.astro" ch-number="113" tvg-name="AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Astro Ria Prima Citra", 113 Aura HD
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="AURA HD" ch-number="113" tvg-name="AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Astro Ria Prima Citra", 113 Aura HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://ktpremium.site:2095/itv263/9189/908357
 
-#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" tvg-logo="https://img.logo-astro.com/Ria.png" channel-number="121" group-title="Astro Ria Prima Citra",Ria (backup)
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="RIA HD" tvg-logo="https://img.logo-astro.com/Ria.png" channel-number="121" group-title="Astro Ria Prima Citra",Ria (backup)
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://radio.noice.id/proxy?url=http://ktpremium.site:2095/itv263/9189/1058818
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" tvg-logo="https://img.logo-astro.com/Prima.png" channel-number="123" group-title="Astro Ria Prima Citra",Prima (backup)
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="PRIMA HD" tvg-logo="https://img.logo-astro.com/Prima.png" channel-number="123" group-title="Astro Ria Prima Citra",Prima (backup)
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://radio.noice.id/proxy?url=http://ktpremium.site:2095/itv263/9189/1058819
 
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" tvg-logo="https://img.logo-astro.com/Citra.png" channel-number="126" group-title="Astro Ria Prima Citra",Citra (backup)
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="CITRA HD" tvg-logo="https://img.logo-astro.com/Citra.png" channel-number="126" group-title="Astro Ria Prima Citra",Citra (backup)
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1139,12 +1139,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
-##EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola
+##EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/?????? ??? ????? ?????? ??? ???????. ????? ?? ????? ??? ?????? ?? ?? ???; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjM2ODA4NTAsImlzcyI6IlZSIiwiZXhwIjoxNzYzNzY0MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYTYyNzg4NGQtNjU2Ny00MTU2LWFhZTMtZjEyZjhiMjU4MGU3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.xR_EFCfR5_WsH7C6hxUvPzVQ0HVwRzUyBocKiNIp-Ek
 
 
-#EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (A)
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 7.1; Em7BrA9V Build/jnHcQd; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36
@@ -1153,7 +1153,7 @@ https://linears2-playback.astro.com.my/vsg/413uHf5EPdDQxbZfR8YjnSE2Sod97W_p6vHax
 #https://0e29359d-913c-4f35-a4f6-774d3790f5fb.xuanxicatyt888-e61cfc80.site/bola1/index.mpd?uuid=372dd02f-70b1-4a25-9ccc-475facadc192&referrer=ZFNHCU
 
 
-#EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (B)
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -1161,10 +1161,10 @@ https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es&password=wg3piwEs&chann
 https://load.perfecttv.net/mpd/bola1/manifest.mpd
 
 
-##EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (B)
+##EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (B)
 http://217.216.110.49:8000/bola1Q
 
-##EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (C)
+##EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="ARENA BOLA" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803", 803 Arena Bola (C)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1173,7 +1173,7 @@ http://217.216.110.49:8000/bola1Q
 https://live.aqfadtv.xyz/arenabola/index.mpd
 
 
-#EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (A)
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 7.1; Em7BrA9V Build/jnHcQd; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36
@@ -1182,24 +1182,24 @@ https://linears2-playback.astro.com.my/vsg/418GgXgizPNS7BC81b3SVXSSXvBIqbYv4Tjt4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
-##EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2
+##EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/?????? ??? ????? ?????? ??? ???????. ????? ?? ????? ??? ?????? ?? ?? ???; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjQ4OTUzMzMsImlzcyI6IlZSIiwiZXhwIjoxNzY0OTczODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.dzo-ZnopGxS2IAIZqhwsqMVYaoa0Pz0vAzIPsrh6Y_w
 
 
-#EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (B)
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=bola2
 
-##EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (B)
+##EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (B)
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://radio.noice.id/proxy?url=http://ktpremium.site:2095/itv263/9189/1059185
 
-##EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (C)
+##EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="ARENA BOLA 2" group-title="AOTG All;SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804", 804 Arena Bola 2 (C)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
