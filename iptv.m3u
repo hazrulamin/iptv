@@ -642,12 +642,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.4261179183 Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41L7eoML7MfkpsFs-7zVhAsmutJ-KJ9YcTGUpn7jpmdNk=j0K8/dash-wv/jitp-linearwm/2407/default_primary.mpd
 
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="AOTG All;Movies" ch-number="404",404 BOO
+##EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="AOTG All;Movies" ch-number="404",404 BOO
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://radio.noice.id/proxy?url=http://217.216.110.49:8000/booJ1
 #http://ktpremium.site:2095/itv263/9189/834387
+
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="AOTG All;Movies" ch-number="404",404 BOO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
 
 
 #EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies" ch-number="401",HBO
