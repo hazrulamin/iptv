@@ -1,5 +1,5 @@
 #EXTM3U billed-msg="PLAYLIST INI HANYA DIBEKALKAN OLEH NEEDY.ST / T.ME/NEEDYAPPSTV, SELAMAT MENONTON" 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://i.mjh.nz/PlutoTV/us.xml, https://i.mjh.nz/SamsungTVPlus/us.xml, https://github.com/Jerrie-Aries/EPG/blob/master/epg.xml, https://raw.githubusercontent.com/samleong123/rtm-live/refs/heads/main/rtmklik.xml" refresh="1440" vod_library="https://www.dropbox.com/scl/fi/j8jwron1swop1doz63fnp/vod-top-20.m3u?rlkey=2jpziyf9bz1l1fds9j5azyw32&st=oskmirs5&dl=1,https://www.dropbox.com/scl/fi/f8m6def2z06lmpkkfg6s7/vodupdatenew.m3u?rlkey=ltwjvw0llfhzth8f8w9g41wwe&st=io0whx89&dl=1,https://www.dropbox.com/scl/fi/ihsa177r3ucdx5kl8omwd/vod-aseanmovie.m3u?rlkey=ylpao9rkp33lben5248scbf49&st=7g0zh0lh&dl=1,https://www.dropbox.com/scl/fi/958n1evneufe6dvkhsxjs/new.m3u?rlkey=8jrnw9yh4xrpzab88pkas5hz1&st=hej2zxtj&dl=1,https://powertech6535.github.io/vod/,https://raw.githubusercontent.com/ediey7523017/tv/main/AsianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/CollectionVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/EnglishVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/IndianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/NetflixVOD",https://powertech6535.github.io/vod/"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://i.mjh.nz/PlutoTV/us.xml, https://i.mjh.nz/SamsungTVPlus/us.xml, https://github.com/Jerrie-Aries/EPG/blob/master/epg.xml, https://raw.githubusercontent.com/samleong123/rtm-live/refs/heads/main/rtmklik.xml" refresh="1440" vod_library="https://tinyurl.com/rvju49ca,https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD"
 
   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -54,7 +54,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://radio.noice.id/proxy?url=http://217.216.110.49:8000/riaJ1
+https://radio.noice.id/proxy?url=https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ria-0/
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="RIA HD" group-title="Astro Ria Prima Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -945,7 +945,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 https://linears2-playback.astro.com.my/vsg/41NACWoNuIbhBchaDFRdYEEmPM1IZQ0I-_icAQx30Tfy8=MWLU/dash-wv/jitp-linearwm/2606/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="AOTG All;Kids;Bahasa Malaysia" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" ch-number="611",611 Ceria 
+##EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="AOTG All;Kids;Bahasa Malaysia" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" ch-number="611",611 Ceria 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #KODIPROP:inputstream.adaptive.license_key=337ef92bfeeb4b599248841cc916ce24:a31f174c1abe17c2b08fb94dd521283c
@@ -953,7 +953,7 @@ https://linears2-playback.astro.com.my/vsg/41NACWoNuIbhBchaDFRdYEEmPM1IZQ0I-_icA
 https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 
 
-##EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="AOTG All;Kids;Bahasa Malaysia" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" ch-number="611",611 Ceria
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="AOTG All;Kids;Bahasa Malaysia" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" ch-number="611",611 Ceria
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=1.1.1.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1153,7 +1153,6 @@ https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 7.1; Em7BrA9V Build/jnHcQd; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36
 https://linears2-playback.astro.com.my/vsg/413uHf5EPdDQxbZfR8YjnSE2Sod97W_p6vHaxD7qS-cQM=5ao7/dash-wv/jitp-linearwm/5099/default_ott.mpd
-#https://urlcuriperfecttv.digital-hubmy.workers.dev/arenabola1?t=32crh8r74328344
 #https://0e29359d-913c-4f35-a4f6-774d3790f5fb.xuanxicatyt888-e61cfc80.site/bola1/index.mpd?uuid=372dd02f-70b1-4a25-9ccc-475facadc192&referrer=ZFNHCU
 
 
